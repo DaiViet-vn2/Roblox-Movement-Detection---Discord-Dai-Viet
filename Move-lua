@@ -2,7 +2,7 @@ local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1387041481042165780/63OsKznxKwzE12LPpWfSt-Zc9NPAa3-94xxDQQ9rl0HLMG-sID68ZLSZaKB4YK1RtDHD"
+local WEBHOOK_URL = "ur webhook url"
 local MIN_DISTANCE = 0.1
 
 local function getUnixTimestampUTC()
